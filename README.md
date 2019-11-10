@@ -1,5 +1,5 @@
 # OpenCV_Projects
-This is a compilation of all my basic projects using OpenCV.
+This is a compilation of some of my basic projects using OpenCV.
 
 # Required Components
 Need to have openCV installed and g++ version 5.4 or greater.
